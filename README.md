@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Upendra Shrestha</h1>
-<h3 align="center">A passionate for coding from Nepal.</h3>
+<h3 align="center"> Passionate for coding from Nepal.</h3>
 
 - 🌱 I’m currently learning .....
 
